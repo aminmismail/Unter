@@ -21,7 +21,7 @@ Integrantes:
   </tr>
   <tr>
     <td>Pré-Condições</td>
-    <td>Ter o cliente cadastrado no sistema<</td>
+    <td>Ter o cliente cadastrado no sistema</td>
   </tr>
   <tr>
     <td>Fluxo 1</td>
