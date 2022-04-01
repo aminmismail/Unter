@@ -44,7 +44,7 @@ Integrantes:
   <li><a href="#alterarAlimento">Alterar Alimento
   <li><a href="#consultarAlimento">Consultar Alimento
   <li><a href="#gerarRelatorio">Gerar Relatório
-  <li><a href="#sair">Sair (opção número 0 no programa)
+  <li><a href="#sair">Sair
 </ol>
 <br>
 <h4><a name="cadastrarCliente">Cadastrar Cliente</h4></a>
@@ -66,4 +66,4 @@ Integrantes:
 <h4><a name="gerarRelatorio">Gerar Relatório</h4></a>
 <p>O programa gera um relatório contendo (X) e salva no caminho (X)</p>
 <h4><a name="sair">Sair</h4></a>
-<p>A aplicação é encerrada.</p>
+<p>A aplicação é encerrada. (Opção 0 no programa)</p>
