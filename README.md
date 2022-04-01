@@ -5,6 +5,11 @@ Integrantes:
   <li>Gustavo Teixeira Ayala
 </ul>
 <hr>
+<h3>Diagrama de Caso de Uso</h3>
+<img src="/DiagCasoDeUso.png" alt="Diagrama de caso de uso">
+<h3>Diagrama de Atividades (Caso de uso: Gerar Relatório)</h3>
+<img src="/DiagramaDeAtividades.png" alt="Fluxograma do caso de uso">
+<hr>
 <h3>Descrição do Caso de Uso</h3>
 <table>
   <tr>
