@@ -53,22 +53,42 @@ Integrantes:
 </ol>
 <br>
 <h4><a name="cadastrarCliente">Cadastrar Cliente</h4></a>
-<p>O usuário fornece os dados necessários para realizar o cadastro do cliente no sistema. Os campos (X) são opcionais.</p>
+<p>O usuário fornece os dados necessários para realizar o cadastro do cliente no sistema.</p>
+    <p>Pré-Condições: Nenhuma</p>
+    <p>Pós-Condições: O cliente é cadastrado no sistema.</p>
 <h4><a name="removerCliente">Remover Cliente</h4></a>
 <p>Após o usuário fornecer o ID, o cliente cadasrado no ID é removido do sistema.</p>
+    <p>Pré-CondiçÕes: ID de um cliente existente.</p>
+    <p>Pós-Condições: O cliente é removido do sistema.</p>
 <h4><a name="alterarCliente">Alterar Cliente</h4></a>
 <p>Após fornecer o ID, o usuário tem a possibilidade de alterar os dados cadastrados do cliente.</p>
+    <p>Pré-CondiçÕes: ID de um cliente existente.</p>
+    <p>Pós-Condições: Os dados do cliente são alterados.</p>
 <h4><a name="consultarCliente">Consultar Cliente</h4></a>
 <p>O usuário fornece o ID de um cliente e o programa mostra as informações cadastradas sobre aquele ID.</p>
+    <p>Pré-CondiçÕes: ID de um cliente existente.</p>
+    <p>Pós-Condições: As informações sobre o cliente são impressas na tela.</p>
 <h4><a name="cadastrarAlimento">Cadastrar Alimento</h4></a>
-<p>O usuário fornece os dados necessários para realizar o cadastro do alimento no sistema. Os campos (X) são opcionais.</p>
+<p>O usuário fornece os dados necessários para realizar o cadastro do alimento no sistema.</p>
+    <p>Pré-Condições: Nenhuma</p>
+    <p>Pós-Condições: O alimento é cadastrado no sistema.</p>
 <h4><a name="removerAlimento">Remover Alimento</h4></a>
 <p>Após o usuário fornecer o ID, o alimento cadasrado no ID é removido do sistema.</p>
+    <p>Pré-CondiçÕes: ID de um alimento existente.</p>
+    <p>Pós-Condições: O alimento é marcado como removido.</p>
 <h4><a name="alterarAlimento">Alterar Alimento</h4></a>
 <p>Após fornecer o ID, o usuário tem a possibilidade de alterar os dados cadastrados do alimento.</p>
+    <p>Pré-CondiçÕes: ID de um alimento existente.</p>
+    <p>Pós-Condições: Os dados do alimento são alterados.</p>
 <h4><a name="consultarAlimento">Consultar Alimento</h4></a>
 <p>O usuário fornece o ID de um alimento e o programa mostra as informações cadastradas sobre aquele ID.</p>
+    <p>Pré-CondiçÕes: ID de um alimento existente.</p>
+    <p>Pós-Condições: As informações sobre o alimento são impressas na tela.</p>
 <h4><a name="gerarRelatorio">Gerar Relatório</h4></a>
-<p>O programa gera um relatório contendo (X) e salva no caminho (X)</p>
+<p>O programa gera um relatório e salva no local onde ele está localizado.</p>
+    <p>Pré-CondiçÕes: Nenhuma.</p>
+    <p>Pós-Condições: As informações sobre os cliente e os alimentos são salvos em um novo arquivo.</p>
 <h4><a name="sair">Sair</h4></a>
 <p>A aplicação é encerrada. (Opção 0 no programa)</p>
+    <p>Pré-CondiçÕes: Nenhuma.</p>
+    <p>Pós-Condições: O programa encerra.</p>
