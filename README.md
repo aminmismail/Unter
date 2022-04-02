@@ -41,9 +41,9 @@ Integrantes:
 <p>A tela inicial do software conta com as seguintes opções:<p>
 <ol>
   <li><a href="#cadastrarCliente">Cadastrar Cliente</a>
-  <li><a href="#cadastrarCliente">Remover Cliente
-  <li><a href="#cadastrarCliente">Alterar Cliente
-  <li><a href="#cadastrarCliente">Consultar Cliente
+  <li><a href="#removerCliente">Remover Cliente
+  <li><a href="#alterarCliente">Alterar Cliente
+  <li><a href="#consultarCliente">Consultar Cliente
   <li><a href="#cadastrarAlimento">Cadastrar Alimento
   <li><a href="#removerAlimento">Remover Alimento
   <li><a href="#alterarAlimento">Alterar Alimento
